@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "Meals",
+    "slug": "Meals",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
